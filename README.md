@@ -15,5 +15,7 @@ I recently completed a captivating data analysis project on the Titanic dataset,
 To go through the observations and conclusion please take a look at the ppt attached.
 
 For a detailed look of the dashboard please look at the png files and to take a look at the dashboard please follow the tableu public link attached below:
-  DashBoard1: https://public.tableau.com/views/DADraft1/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-  DashBoard2: https://public.tableau.com/views/TitanicWORKBOOK/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+  
+DashBoard1: https://public.tableau.com/views/DADraft1/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+  
+DashBoard2: https://public.tableau.com/views/TitanicWORKBOOK/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
